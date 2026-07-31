@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ArmanMoradi001/MPCitH-Survey.git)
+![GitHub last commit](https://img.shields.io/github/last-commit/ArmanMoradi001/MPCitH-Survey)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ArmanMoradi001/MPCitH-Survey.git)
 ![GitHub License](https://img.shields.io/github/license/ArmanMoradi001/MPCitH-Survey.git)
 
