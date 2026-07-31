@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ArmanMoradi001/MPCitH-Survey.git)
+![GitHub Repo stars](https://img.shields.io/github/stars/ArmanMoradi001/MPCitH-Survey.git)
+![GitHub License](https://img.shields.io/github/license/ArmanMoradi001/MPCitH-Survey.git)
+
+
 # Head-in-the-MPC Survey
 
 > A curated collection of papers, implementations, educational resources, and benchmarks related to the **Head-in-the-MPC (MPCitH)** paradigm.
