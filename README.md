@@ -5,7 +5,7 @@
 
 # Head-in-the-MPC Survey
 
-> A curated collection of papers, implementations, educational resources, and benchmarks related to the **Head-in-the-MPC (MPCitH)** paradigm.
+
 
 This repository accompanies our survey paper on the **Head-in-the-MPC (MPCitH)** paradigm and aims to provide researchers, engineers, and practitioners with a centralized collection of high-quality resources.
 
