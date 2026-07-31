@@ -1,6 +1,6 @@
 # Research Papers
 
-This document provides a curated reading roadmap for researchers, engineers, and practitioners interested in the **Head-in-the-MPC (MPCitH)** paradigm.
+This document provides a curated reading roadmap for researchers, engineers, and practitioners interested in the **MPC-in-the-Head (MPCitH)** paradigm.
 
 The papers are organized from foundational works to practical implementations and industrial applications.
 
@@ -13,7 +13,7 @@ The papers are organized from foundational works to practical implementations an
 | 1 | Foundations of Secure Computation |
 | 2 | Secret Sharing |
 | 3 | Zero-Knowledge Proofs |
-| 4 | Head-in-the-MPC |
+| 4 | MPC-in-the-Head |
 | 5 | Practical MPCitH Protocols |
 | 6 | Post-Quantum Signatures |
 | 7 | Industrial Applications |
@@ -142,7 +142,7 @@ Classic paper on efficient zero-knowledge constructions.
 
 ---
 
-# Stage 4 — Head-in-the-MPC
+# Stage 4 — MPC-in-the-Head
 
 ## 8. Zero-Knowledge from Secure Multiparty Computation
 

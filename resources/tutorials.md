@@ -1,6 +1,6 @@
 # Tutorials
 
-This document collects high-quality tutorials, lecture notes, workshops, blog posts, and hands-on learning materials related to **Head-in-the-MPC (MPCitH)** and its prerequisites.
+This document collects high-quality tutorials, lecture notes, workshops, blog posts, and hands-on learning materials related to **MPC-in-the-Head (MPCitH)** and its prerequisites.
 
 Unlike the research papers, these resources focus on learning the concepts rather than presenting new results.
 
@@ -173,7 +173,7 @@ Understanding these concepts helps position MPCitH within the broader ZKP ecosys
 
 ---
 
-# Head-in-the-MPC
+# MPC-in-the-Head
 
 ## Original IKOS Paper
 

@@ -3,11 +3,11 @@
 ![GitHub License](https://img.shields.io/github/license/ArmanMoradi001/MPCitH-Survey)
 
 
-# Head-in-the-MPC Survey
+# MPC-in-the-Head Survey
 
 
 
-This repository accompanies our survey paper on the **Head-in-the-MPC (MPCitH)** paradigm and aims to provide researchers, engineers, and practitioners with a centralized collection of high-quality resources.
+This repository accompanies our survey paper on the **MPC-in-the-Head  (MPCitH)** paradigm and aims to provide researchers, engineers, and practitioners with a centralized collection of high-quality resources.
 
 ---
 
@@ -15,7 +15,7 @@ This repository accompanies our survey paper on the **Head-in-the-MPC (MPCitH)**
 
 Zero-Knowledge Proofs (ZKPs) have become one of the most important building blocks of modern privacy-preserving systems.
 
-Among different approaches, **Head-in-the-MPC (MPCitH)** has emerged as one of the most promising paradigms because it offers
+Among different approaches, **MPC-in-the-Head (MPCitH)** has emerged as one of the most promising paradigms because it offers
 
 - Transparent setup
 - Post-quantum security
@@ -64,9 +64,9 @@ This repository tries to solve that problem.
 
 ---
 
-# What is Head-in-the-MPC?
+# What is MPC-in-the-Head?
 
-Head-in-the-MPC (MPCitH) is a Zero-Knowledge paradigm introduced by Ishai et al. (STOC 2007).
+MPC-in-the-Head (MPCitH) is a Zero-Knowledge paradigm introduced by Ishai et al. (STOC 2007).
 
 Instead of executing a real secure multi-party computation among several parties, the prover simulates multiple virtual parties locally.
 
@@ -194,7 +194,7 @@ For beginners:
 
 This repository accompanies the survey paper
 
-**Head-in-the-MPC: Foundations, Evolution, and Applications in Privacy-Preserving Financial Systems**
+**MPC-in-the-Head: Foundations, Evolution, and Applications in Privacy-Preserving Financial Systems**
 
 The repository provides additional materials that cannot be included in the paper because of page limitations.
 

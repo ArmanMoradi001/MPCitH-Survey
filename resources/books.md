@@ -1,6 +1,6 @@
 # Books
 
-This document curates the most valuable books for learning the cryptographic foundations behind the **Head-in-the-MPC (MPCitH)** paradigm.
+This document curates the most valuable books for learning the cryptographic foundations behind the **MPC-in-the-Head (MPCitH)** paradigm.
 
 Rather than listing every cryptography book, this guide focuses on resources that directly help readers understand Secure Multi-Party Computation (MPC), Zero-Knowledge Proofs (ZKP), secret sharing, post-quantum cryptography, and privacy-preserving systems.
 
@@ -88,7 +88,7 @@ Cambridge University Press
 
 The definitive reference for Secure Multi-Party Computation.
 
-Most concepts required for understanding Head-in-the-MPC originate from this book.
+Most concepts required for understanding MPC-in-the-Head originate from this book.
 
 **Recommended Chapters**
 
@@ -278,7 +278,7 @@ Recommended before implementing cryptographic systems.
 
 # Books Specifically Relevant to MPCitH
 
-Although no book is exclusively dedicated to **Head-in-the-MPC**, the following books provide nearly all prerequisite knowledge.
+Although no book is exclusively dedicated to **MPC-in-the-Head**, the following books provide nearly all prerequisite knowledge.
 
 | Topic | Recommended Book |
 |---------|------------------------------|
