@@ -1,0 +1,76 @@
+MIT License
+
+Copyright (c) 2026 Arman Moradi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this repository and associated documentation files (the "Repository"), to
+deal in the Repository without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Repository, and to permit persons to whom the Repository
+is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Repository.
+
+THE REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE REPOSITORY OR THE USE OR OTHER DEALINGS IN THE
+REPOSITORY.
+
+-------------------------------------------------------------------------------
+
+Third-Party Content Notice
+
+This repository primarily serves as a curated educational resource.
+
+Unless explicitly stated otherwise:
+
+- Research papers referenced in this repository remain the intellectual
+  property of their respective authors and publishers.
+
+- Books, tutorials, videos, software implementations, datasets,
+  documentation, trademarks, and logos belong to their respective owners.
+
+- This repository does not redistribute copyrighted papers or proprietary
+  source code.
+
+- External links are provided solely for educational and research purposes.
+
+- Official implementations are referenced through links to their original
+  repositories whenever possible.
+
+-------------------------------------------------------------------------------
+
+Repository Content
+
+The following materials are original works released under the MIT License:
+
+- README files
+- Documentation
+- Educational summaries
+- Reading guides
+- Learning roadmaps
+- Repository organization
+- Original examples (if any)
+
+Third-party materials remain subject to their own licenses.
+
+-------------------------------------------------------------------------------
+
+Citation
+
+If you use this repository in academic work, please cite the accompanying
+survey paper when available.
+
+-------------------------------------------------------------------------------
+
+Educational Use
+
+This repository is intended to support education, research, and the
+advancement of privacy-preserving cryptography.
+
+It is not intended to replace official publications or software released by
+their respective authors.

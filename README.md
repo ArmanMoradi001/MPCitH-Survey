@@ -228,13 +228,6 @@ papers/bibliography.bib
 
 ```
 
----
-
-# License
-
-Unless otherwise stated, this repository only contains metadata, educational material, and links to official implementations.
-
-All copyrights remain with the original authors.
 
 ---
 
