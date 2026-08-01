@@ -1,5 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArmanMoradi001/MPCitH-Survey)
-![GitHub Repo stars](https://img.shields.io/github/stars/ArmanMoradi001/MPCitH-Survey)
+![GitHub Repo stars](https://img.shields.io/github/stars/ArmanMoradi001/MPCitH-Survey?label=Stars)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
