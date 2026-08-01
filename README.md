@@ -1,6 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArmanMoradi001/MPCitH-Survey)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ArmanMoradi001/MPCitH-Survey)
-![GitHub License](https://img.shields.io/github/license/ArmanMoradi001/MPCitH-Survey)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 # MPC-in-the-Head Survey
